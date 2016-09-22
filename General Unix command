@@ -1,5 +1,5 @@
 ###################################################################################
-Install parallel 
+Install GNU parallel 
 Run command on more than on file having some common patern in file name.
 
 parallel 'command {} >{}.ext' ::: *.ext
