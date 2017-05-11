@@ -1,0 +1,8 @@
+Download GSEA tool from http://software.broadinstitute.org/gsea/login.jsp
+Load your Ranked file using "Load data".
+Then go to Tab "Tools" and click on "GSEApreranked".
+    Set the parameters like Gene set database ,permutations and others.
+    Use Chip platform, If you have gene symbol in ranked gene list
+and Finally click on RUN tab.
+
+
